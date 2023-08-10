@@ -9,7 +9,7 @@
 
 - 📚 I'm currently studying at [Wrocław University of Science and Technology](https://pwr.edu.pl)
 
-# - 🌱 I’m currently learning **React**
+#- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mr-TwisT](https://github.com/Mr-TwisT)
 

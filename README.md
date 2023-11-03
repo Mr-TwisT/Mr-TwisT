@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Patryk </h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<div><h1 align="center">Hi, I'm Patryk </h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></div>
 <h3 align="center">A beginner in world of developers who looking for internship!</h3>
 
 <br />

@@ -6,11 +6,9 @@
   A beginner in the world of developers who is looking for an internship!
 </h3>
 
-<br />
+<br /><br />
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
-
-<br />
 
 # 💫 About Me:
 
@@ -53,18 +51,18 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TwisT&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Mr-TwisT&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mr-TwisT&theme=midnight-purple&hide_border=true)
+<br />
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img class="img" style="width: 55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TwisT&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <br />
+  <img class="img" style="width: 75%" src="https://github-readme-stats.vercel.app/api?username=Mr-TwisT&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
+  <br />
+  <img class="img" style="width: 85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-TwisT&theme=midnight-purple&hide_border=true" />
+</div>
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img class="img" style="width: 90%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Mr-TwisT&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Mr-TwisT&icon=5&color=1)](https://visitcount.itsvg.in)

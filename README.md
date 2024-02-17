@@ -51,9 +51,8 @@
 
 # 📊 GitHub Stats:
 
-<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TwisT&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Mr-TwisT&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TwisT&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br />
+![](https://github-readme-stats.vercel.app/api?username=Mr-TwisT&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mr-TwisT&theme=midnight-purple&hide_border=true)
 
 ### ✍️ Random Dev Quote

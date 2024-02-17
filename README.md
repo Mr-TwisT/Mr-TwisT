@@ -52,17 +52,11 @@
 # 📊 GitHub Stats:
 
 <br />
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img class="img" style="width: 55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TwisT&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  <br />
-  <img class="img" style="width: 75%" src="https://github-readme-stats.vercel.app/api?username=Mr-TwisT&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
-  <br />
-  <img class="img" style="width: 85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-TwisT&theme=midnight-purple&hide_border=true" />
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TwisT&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Mr-TwisT&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mr-TwisT&theme=midnight-purple&hide_border=true)
 
 ### ✍️ Random Dev Quote
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img class="img" style="width: 90%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 

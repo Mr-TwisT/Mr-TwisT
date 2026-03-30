@@ -16,8 +16,8 @@
 
 - 📚 I'm currently studying at [Wrocław University of Science and Technology](https://pwr.edu.pl)
 - 👨‍💻 All of my projects are available here 👉 [GitHub Repositories](https://github.com/Mr-TwisT?tab=repositories)
-- 🌱 I’m currently learning **ML** and **NLP**
-- ⚡ Fun fact: I like Marvel's movies 🎦
+- 🌱 I’m currently learning **NLP**
+- ⚡ Fun fact: I'm a Marvel fan
 - 📫 Contact: patryk.szymik01@gmail.com
 
 #### ✍️ Random Dev Quote
